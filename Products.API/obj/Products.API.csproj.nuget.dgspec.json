@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erick\\Desktop\\UTFPR\\TDS\\Atividade02\\Products.API\\Products.API.csproj": {}
+    "C:\\Users\\erick\\Desktop\\UTFPR\\ES\\Exemplo Clone\\TPTE02\\Products.API\\Products.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erick\\Desktop\\UTFPR\\TDS\\Atividade02\\Products.API\\Products.API.csproj": {
+    "C:\\Users\\erick\\Desktop\\UTFPR\\ES\\Exemplo Clone\\TPTE02\\Products.API\\Products.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erick\\Desktop\\UTFPR\\TDS\\Atividade02\\Products.API\\Products.API.csproj",
+        "projectUniqueName": "C:\\Users\\erick\\Desktop\\UTFPR\\ES\\Exemplo Clone\\TPTE02\\Products.API\\Products.API.csproj",
         "projectName": "Products.API",
-        "projectPath": "C:\\Users\\erick\\Desktop\\UTFPR\\TDS\\Atividade02\\Products.API\\Products.API.csproj",
+        "projectPath": "C:\\Users\\erick\\Desktop\\UTFPR\\ES\\Exemplo Clone\\TPTE02\\Products.API\\Products.API.csproj",
         "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erick\\Desktop\\UTFPR\\TDS\\Atividade02\\Products.API\\obj\\",
+        "outputPath": "C:\\Users\\erick\\Desktop\\UTFPR\\ES\\Exemplo Clone\\TPTE02\\Products.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config"
