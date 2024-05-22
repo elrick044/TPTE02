@@ -12,3 +12,4 @@ namespace Products.API.Models
     }
 
 }
+//joão
