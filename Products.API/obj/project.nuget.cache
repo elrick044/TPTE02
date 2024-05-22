@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4yJmGHGELvuDoQg/Y/dGDxPZQMGoRcdvB+yqHUEAC2f+Jr8Q4nyu0pDDyO5hI6uC4X3hFMt5ocvg3n3ZklUrtQ==",
+  "dgSpecHash": "gIerwYsQwpmvUKFDCG6Ks1JKTp9UWxLVB2hHlbL+oLtbuYHB0zkZWv0Y2IJBjRyLarwZ7InQlVeJjjSCb5driw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erick\\Desktop\\UTFPR\\TDS\\Atividade02\\Products.API\\Products.API.csproj",
+  "projectFilePath": "C:\\Users\\erick\\Desktop\\UTFPR\\ES\\Exemplo Clone\\TPTE02\\Products.API\\Products.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erick\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\erick\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.2\\microsoft.aspnetcore.openapi.8.0.2.nupkg.sha512",
